@@ -1,0 +1,14 @@
+[
+	{
+		"id" : "123456",
+		"titulo" : "Guia Politicamente Incorreto da História do Mundo",
+		"autor" : "Leandro Narloch",
+		"descricao" : "Este livro é um guia contra a doutrinação que muitos brasileiros sofreram na escola. Não tem a pretensão de contar toda a história do mundo: seu alvo são os principais mitos sobre os últimos 2 mil anos que, apesar de terem sido derrubados há muito tempo por historiadores, prevalecem nos livros didáticos, nas provas do Enem, nas conversas de bar. Cintos de castidade na Idade Média? Eles nunca existiram – pelo contrário, manuais de medicina da época diziam que o prazer sexual era essencial à saúde das mulheres. Milhares de crianças foram exploradas nas fábricas inglesas do século 19? Está certo, mas é bom lembrar que a Revolução Industrial, pela primeira vez, tornou o trabalho infantil desnecessário. E lembra aquela história de que as guerras e a miséria da África são consequência das fronteiras artificiais criadas pelos europeus? Há quase 30 anos historiadores e economistas africanos deixaram de acreditar nela. Abaixo da superfície, a história não é tão simples quanto aquele professor militante costumava nos ensinar. Depois do sucesso do Guia Politicamente Incorreto da História do Brasil e do Guia Politicamente Incorreto da América Latina, é hora de finalizar o trabalho. É hora de jogar tomates nas versões ultrapassadas da história do mundo."
+	},
+	{
+		"id" : "2",
+		"titulo" : "Nação Brasileira",
+		"autor" : "Cabo Daciolo",
+		"descricao" : "Glória a Deuxx"
+	}
+]
